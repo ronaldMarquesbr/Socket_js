@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#messages{
+    background-color: rgb(223, 220, 215);
+    border-radius: 8px;
+    width: 600px;
+    height: 700px;
+}
+
+.box-envio-mensagem{
+    width: 400px !important;
+}
